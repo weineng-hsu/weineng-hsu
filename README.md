@@ -32,6 +32,14 @@ __Check out my GitHub repository:__
   </p>
 </div>
 
+<div>
+  <p>
+    <a href="https://github.com/weineng-hsu/S2022-NYU-Marketplace">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=weineng-hsu&repo=S2022-NYU-Marketplace" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
 <h2> About Weineng⚡:</h2>
 
 I'm a Graduate Student living in New York CIty. I’m currently exploring Python with a big interest in Web Scraping and Data Visualization.
